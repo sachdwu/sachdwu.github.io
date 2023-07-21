@@ -1,8 +1,13 @@
 {
-   "applinks": {
-   "apps": [],
-   "details": [{
-       "appID":"7QZRFQV3C2.com.synco.test.NFCTest", 
-       "paths": ["/nfc", /nfc/*"]
-   } ] }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3LVN29M3CY.libify.notruf",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
