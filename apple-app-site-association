@@ -1,8 +1,9 @@
 {
    "applinks": {
-   "apps": [],
-   "details": [{
-       "appID":"7QZRFQV3C2.com.synco.test.NFCTest",
-       "paths": ["/nfc", /nfc/*"]
-   } ] }
+        "apps": [],
+        "details": [{
+            "appID":"7QZRFQV3C2.com.synco.test.NFCTest",
+            "paths": ["*", "/nfc", "/nfc/*"]
+        } ]
+    }
 }
